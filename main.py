@@ -356,3 +356,4 @@ print("Initial list: ")
 print(values)
 print("Exponent list: ")
 print(exponents)
+
